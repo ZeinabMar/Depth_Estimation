@@ -1,9 +1,5 @@
 # Depth_Estimation
-Estimating the depth of a scene from single
-monocular color images is a fundamental problem in image
-understanding. Depth estimation is a critical function for
-robotic tasks such as localization, mapping, and obstacle
-detection. Recent works based on the development of deep
+Estimating the depth of a scene from single monocular color images is a fundamental problem in image understanding. Depth estimation is a critical function for robotic tasks such as localization, mapping, and obstacle detection. Recent works based on the development of deep
 convolutional neural networks provide reliable results. Due to
 the low cost and relatively small size of monocular cameras, the
 performance of neural networks for depth estimation from
@@ -24,3 +20,5 @@ the inside of the pipe environment.
 
 # Implementation of This Paper 
 AdaBins-ASPP is trained on Sewer pipe Imagines and is achieved based on the alteration of the structure of Adabins networks by applying ASPP on it.
+
+![alt text](result.png)
