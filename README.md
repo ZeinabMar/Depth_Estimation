@@ -3,4 +3,5 @@ Estimating the depth of a scene from single monocular color images is a fundamen
 
 # Implementation of This Paper 
 AdaBins-ASPP is trained on Sewer pipe Imagines and is achieved based on the alteration of the structure of Adabins networks by applying ASPP on it.
-![alt text](result.png)
+
+  ![alt text](result.png)
