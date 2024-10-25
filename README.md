@@ -26,12 +26,4 @@ This project introduces a new deep neural network called **SepiDepthASPP**. Our 
    
 # Usage
 4. Start Jupyter Notebook from your terminal:
-   ```bash
    Open the adabinfinal.ipynb file from the Jupyter interface.
-
-
-
-
-
-
-
