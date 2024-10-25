@@ -23,7 +23,15 @@ This project introduces a new deep neural network called **SepiDepthASPP**. Our 
 3. Install the required dependencies:
    ```bash
    pip install -r requirements.txt
+   
 # Usage
+4. Start Jupyter Notebook from your terminal:
+   ```bash
+   Open the adabinfinal.ipynb file from the Jupyter interface.
+
+
+
+
 
 
 
