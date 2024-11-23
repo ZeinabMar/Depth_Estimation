@@ -5,7 +5,7 @@ Estimating the depth of a scene from single monocular color images is a fundamen
 Due to the low cost and relatively small size of monocular cameras, the performance of neural networks for depth estimation from a single RGB image has significantly improved. Inspector robots operate inside sewer pipes, navigating ambiguous environments filled with various contaminants and obstacles. By understanding the environment within the pipe and analyzing images from the monocular camera, the robot can navigate more safely and perform its mission more effectively.
 
 This project introduces a new deep neural network called **SepiDepthASPP**. Our approach combines ASPP and adaptive bins to extract strong global and local contextual features at multiple scales, subsequently translating them to higher resolutions for clearer depth maps. This network is specifically designed for images captured inside sewer pipes, enabling more accurate detail estimation in the resulting depth maps. The network is trained on datasets obtained from within sewer pipes, aiding the robot in comprehending its internal environment.
-
+https://ieeexplore.ieee.org/document/10668037
 ## Implementation of This Paper
 **AdaBins-ASPP** is trained on sewer pipe images and is based on the modification of the AdaBins network structure by integrating ASPP.
 
